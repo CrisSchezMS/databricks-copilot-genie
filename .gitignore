@@ -1,0 +1,7 @@
+.mcp.json
+.vscode/mcp.json
+.sync-state.json
+.sync-state.json.tmp
+__pycache__/
+.pytest_cache/
+.venv/

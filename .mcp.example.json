@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "databricks-genie": {
+      "type": "http",
+      "url": "https://<workspace>.azuredatabricks.net/api/2.0/mcp/genie/<space-id>"
+    }
+  }
+}
